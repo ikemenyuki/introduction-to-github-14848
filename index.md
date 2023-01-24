@@ -12,3 +12,8 @@ edited index.md
 def print_hello_world():
   print('hello world!')
 ```
+
+### added task lists
+- [x] Create Github account
+- [x] Part 1 AWS setup
+- [ ] Part 2 Github labs
